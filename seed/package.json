@@ -1,0 +1,14 @@
+{
+  "name": "dm-charts-spike",
+  "version": "1.0.0",
+  "main": "seed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "pg": "^8.13.1"
+  }
+}
